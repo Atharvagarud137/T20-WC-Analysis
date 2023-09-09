@@ -22,6 +22,7 @@ The code in this repository requires the following libraries to be installed in 
 * pandas
 * matplotlib
 * numpy
+
 The data used for analysis is included in the repository, but additional data may be required for specific analyses or predictions.
 
 ## Usage
